@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "React Guitar Tuner",
+  "description": "10/10 Super amazing magnificent guitar tuner",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Open the popup"
+  },
+  "icons": {
+    "16": "note.png",
+    "48": "note.png",
+    "128": "note.png"
+  },
+  "permissions": []
+}
